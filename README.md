@@ -3,7 +3,7 @@
 
 **Your Training. Your Progress. Your Health.**
 
-A modern web-based workout tracking platform that helps athletes log lifts, follow structured programs, track progress, and stay accountable.
+A modern workout tracking platform that helps athletes log lifts, follow structured programs, track progress, and stay accountable.
 
 > **Status:** Initial frontend commit – landing page & core UI components.
 
@@ -27,6 +27,7 @@ The current codebase focuses on the public-facing experience (Hero, Features, Pr
 - Modular, reusable React components
 
 ### Coming soon
+- Mobile App format
 - Full workout logging (sets, reps, weight)
 - Feature showcase (Workout Tracking, Programs, Progress & PRs, Video Guidance, Nutrition, Community)
 - Program catalog (Strength Foundation, Hypertrophy Split, Push Pull Legs, Power Building, Home Work, On-Demand)
