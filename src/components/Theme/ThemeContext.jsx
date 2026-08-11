@@ -3,7 +3,7 @@ import React, { createContext, useContext, useState, useEffect } from "react";
 /**
  * Theme system with system-preference detection (dark / light).
  *
- * How it works for students:
+ * How it works:
  * 1. On first visit we look at the user's OS setting
  *    (prefers-color-scheme) and pick dark or light to match.
  * 2. If the user has already chosen a theme (saved in localStorage),

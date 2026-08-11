@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "../Button";
-import ThemeToggle from "../ThemeToggle";
+import ThemeToggle from "../Theme/ThemeToggle";
 
 /**
  * Top navigation bar.

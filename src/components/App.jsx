@@ -1,5 +1,5 @@
 import React from "react";
-import { ThemeProvider } from "./ThemeContext";
+import { ThemeProvider } from "./Theme/ThemeContext";
 import Header from "./HeaderFooter/Header";
 import Hero from "./Hero";
 import Features from "./Features";
